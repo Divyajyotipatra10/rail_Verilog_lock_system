@@ -1,0 +1,3 @@
+We have brought a Memory based Rail lock storage system which will take input from the user at the time of boarding and User can change the password through out the journey.
+There will be a 'RESET' button in each coach which can be accessed only by the coach attendent and if someone try to breach the password by applying wrong inputs a message
+will be sent to the user's phone. User will have maximum 3 chances to unlock after attempting a single wrong attempt.
